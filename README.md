@@ -1,4 +1,4 @@
-<h2><strong>Домашние задания Нетологии</strong></h2>
+<h2><strong>Решения заданий Нетологии</strong></h2>
 <p><span style="color: #999999;">&bull; <a style="color: #999999;"">Задание 2_1 "Модули"</a></span></p>
 <p><span style="color: #999999;">&bull; <a style="color: #999999;"">Задание 2_2 "Переменные и параметры сеанса"</a></span></p>
 <p><span style="color: #999999;">&bull; <a style="color: #999999;"">Задание 2_3 "Типы данных"</a></span></p>
