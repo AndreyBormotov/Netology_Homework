@@ -1,4 +1,5 @@
 <h2><strong>Домашние задания Нетологии</strong></h2>
+</p> <p>&bull; <a href="Homework 2_7.pdf"><span style="color: #999999;">"Циклы"</span></a></p>
 </p> <p>&bull; <a href="Homework 2_7.pdf">Задание 2_7 "Универсальные коллекции"</a></p>
 </p> <p>&bull; <a href="Homework 2_8.pdf">Задание 2_8 "Объекты платформы"</a></p>
 </p> <p>&bull; <a href="Homework 2_9.pdf">Задание 2_9 "Процедуры и функции"</a></p>
