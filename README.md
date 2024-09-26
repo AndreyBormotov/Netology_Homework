@@ -9,4 +9,4 @@
 </p> <p>&bull; <a href="Homework 2_8.pdf">Задание 2_8 "Объекты платформы"</a></p>
 </p> <p>&bull; <a href="Homework 2_9.pdf">Задание 2_9 "Процедуры и функции"</a></p>
 </p> <p>&bull; <a href="Coursework A.pdf">Курсовая работа: Блок А (задание)</a></p>
-<p>&bull; <a href="Coursework A.pdf">Курсовая работа: Блок А (задание)</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="https://github.com/AndreyBormotov/Netology_Homework/Coursework_A.dt">Выгрузка информационной базы</a></p>
+<p>&bull; <a href="Coursework A.pdf">Курсовая работа: Блок А (задание)</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="https://deepbag.github.io/git-cloud-storage/Coursework_A.dt">Выгрузка информационной базы</a></p>
