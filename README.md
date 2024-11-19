@@ -9,4 +9,4 @@
 </p> <p>&bull; <a href="Homework 2_8.pdf">Задание 2_8 "Объекты платформы"</a></p>
 </p> <p>&bull; <a href="Homework 2_9.pdf">Задание 2_9 "Процедуры и функции"</a></p>
 <p>&bull; <a href="Coursework A.pdf">Курсовая работа: Блок А (задание)</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="https://downgit.github.io/#/home?url=https://github.com/AndreyBormotov/Netology_Homework/blob/461614134b4ed8d4a1f03918c8c65446a9b0f5d9/Coursework_A.dt">Выгрузка информационной базы</a></p>
-<p>&bull; <a href="Coursework A.pdf">Курсовая работа: Блок B (задание)</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <p><span style="color: #999999;">в процессе выполнения</span></p></a></p>
+<p>&bull; <a href="Coursework A.pdf">Курсовая работа: Блок B (задание)</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат:<p><span style="color: #999999;">в процессе выполнения</span></p></a></p>
