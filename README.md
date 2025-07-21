@@ -4,7 +4,6 @@
 <p>&bull; <a href="Coursework_B.pdf">Самостоятельная работа: Блок В </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="https://downgit.github.io/#/home?url=https://github.com/AndreyBormotov/Netology_Homework/blob/bc79e28bdd1b06b5e0a643eb42d598cbc33852cb/Coursework_B.dt">Выгрузка информационной базы</a></p>
 <p>&bull; <a href="Mobile.pdf">Итоговая работа: Мобильная разработка </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="">Выгрузка информационной базы</a></p>
 |Столбец 1|Столбец 2|Столбец 3|
-
 |:-|:-:|-:|
 |Равнение по левому краю|Равнение по центру|Равнение по правому краю|
 |Запись|Запись|Запись|
