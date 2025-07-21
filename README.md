@@ -3,3 +3,8 @@
 <p>&bull; <a href="Coursework_A.pdf">Самостоятельная работа: Блок А </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="https://downgit.github.io/#/home?url=https://github.com/AndreyBormotov/Netology_Homework/blob/34f5150a186e479a5015d2a03ac808d4ba3869da/Coursework_A.dt">Выгрузка информационной базы</a></p>
 <p>&bull; <a href="Coursework_B.pdf">Самостоятельная работа: Блок В </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="https://downgit.github.io/#/home?url=https://github.com/AndreyBormotov/Netology_Homework/blob/bc79e28bdd1b06b5e0a643eb42d598cbc33852cb/Coursework_B.dt">Выгрузка информационной базы</a></p>
 <p>&bull; <a href="Mobile.pdf">Итоговая работа: Мобильная разработка </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Результат: <a href="">Выгрузка информационной базы</a></p>
+| Таблицы       | Это                | Круто |
+| ------------- |:------------------:| -----:|
+| столбец 3     | выровнен вправо    | $1600 |
+| столбец 2     | выровнен по центру |   $12 |
+| зебра-строки  | прикольные         |    $1 |
